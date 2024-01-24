@@ -70,6 +70,7 @@ function askQuestion() {
 // 机器人对象
 let openAIApi;
 // 初始化机器人对象
+// https://platform.openai.com/docs/api-reference/introduction
 function initializeChatBot() {
     openAIApi = new OpenAIApi(new Configuration({
         basePath: "https://api.chatanywhere.tech",
