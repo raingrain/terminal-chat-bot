@@ -15,3 +15,4 @@
 5. **Write the key to `OPENAI_API_KEY` in the `.env` file.**
 6. **Run `pnpm build` to package the project in `dist/bundler.js` .**
 7. **Run `pnpm dev` to use your chat-bot.**
+8. **Run `pnpm link --global` to use chat-bot on any terminal.**
