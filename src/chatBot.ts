@@ -6,6 +6,7 @@ import { addChatBotMessage, messages } from "./message.js";
 let openAIApi: OpenAIApi;
 
 // 初始化机器人对象
+// https://platform.openai.com/docs/api-reference/introduction
 function initializeChatBot() {
     openAIApi = new OpenAIApi(
         new Configuration({
