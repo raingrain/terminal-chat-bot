@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 import { fileURLToPath } from "url";
 import { dirname, resolve } from "path";
 import { askQuestion } from "./user.js";
-import { chatBotAnswer, initializeChatBot } from "./bot.js";
+import { chatBotAnswer, initializeChatBot } from "./chatBot.js";
 import { startLoading, stopLoading } from "./loading.js";
 // 初始化环境变量
 dotenv.config({
