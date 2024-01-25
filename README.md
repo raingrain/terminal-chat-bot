@@ -1,4 +1,4 @@
-# 🎉[terminal-chat-🤖](https://github.com/raingrain/terminal-chat-bot)🎉
+# 🎉[Terminal-Chat-🤖](https://github.com/raingrain/terminal-chat-bot)🎉
 
 > *A mini chat-bot running on the terminal, using the ChatGpt model **(gpt-3.5-turbo)**.*
 
