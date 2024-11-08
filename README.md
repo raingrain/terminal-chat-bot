@@ -12,5 +12,5 @@
 4. Get your own key from [GPT_API_free](https://github.com/chatanywhere/GPT_API_free).
 5. Write the key to `OPENAI_API_KEY` in the `.env` file.
 6. Run `pnpm build` to package the project.
-7. Run `pnpm dev` to use your chat-bot.
-8. Run `pnpm link --global` to use chat-bot on any terminal.
+7. Run `pnpm dev` to use your chat bot.
+8. Run `pnpm link --global` to use chat bot on any terminal.
