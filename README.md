@@ -1,7 +1,5 @@
 # Terminal Chat Bot
 
-A mini chat-bot running on the terminal, using the ChatGpt model (gpt-3.5-turbo).
-
 ## Example
 
 ![image](./public/example.png)
